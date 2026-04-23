@@ -4,4 +4,8 @@ Sistem Administrasi Akademik Berbasis Web adalah solusi digital untuk meningkatk
 ## Tujuan 
 Mengembangkan sistem administrasi akademik berbasis web yang mampu mempermudah mahasiswa dalam mengakses layanan akademik secara online, meningkatkan efisiensi pengelolaan data, serta mendukung pelayanan akademik yang lebih cepat dan terintegrasi.
 ## Fitur Utama
-KRS
+"KRS"
+"EDOM"
+"Konsultasi"
+"Revisi nilai"
+"Tagihan"
