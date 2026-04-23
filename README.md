@@ -1,3 +1,4 @@
+# EduAdmin System
 # Sistem Administrasi Akademik Berbasis Web
 
 «💡 Solusi digital untuk mempermudah layanan akademik mahasiswa secara cepat, efisien, dan terintegrasi.»
