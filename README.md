@@ -47,15 +47,14 @@ Sistem Administrasi Akademik Berbasis Web merupakan aplikasi yang dirancang untu
 
 ## Timeline Pengembangan
 
-Minggu| Kegiatan
-1| Analisis kebutuhan
-2| Desain sistem & UI
-3| Perancangan database
-4| Pengembangan backend
-5| Pengembangan frontend
-6| Integrasi sistem
-7| Testing
-8| Finalisasi
+- Minggu 1 : Analisis kebutuhan  
+- Minggu 2 : Desain sistem & UI  
+- Minggu 3 : Perancangan database  
+- Minggu 4 : Pengembangan backend  
+- Minggu 5 : Pengembangan frontend  
+- Minggu 6 : Integrasi sistem  
+- Minggu 7 : Testing  
+- Minggu 8 : Finalisasi
 
 ---
 
